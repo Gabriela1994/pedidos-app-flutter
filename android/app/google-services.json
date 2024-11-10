@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832193871385",
+    "project_id": "proyecto-pedidos-637d7",
+    "storage_bucket": "proyecto-pedidos-637d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832193871385:android:c3592a1e36a36453dfb488",
+        "android_client_info": {
+          "package_name": "pedidos.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhHxVWfeCYBpPa_JBLR7Hdu9dKq8RLPJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
